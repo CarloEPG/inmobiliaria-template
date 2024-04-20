@@ -96,6 +96,20 @@ body{
     font-weight: 500;
 }
 
+.navbar-light form button{
+  
+  
+  border-radius: 50%;
+
+
+}
+
+.navbar-light form input{
+  box-shadow: none !important;
+  border-radius: 20px;
+  
+}
+
 
 /*--------------------------------------------------------------
 # Header
